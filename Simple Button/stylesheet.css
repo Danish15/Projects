@@ -1,0 +1,10 @@
+div {
+    height: 60px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: #69D2E7;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Arial,;
+    opacity: 0.5;
+}
